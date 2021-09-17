@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+    background-color: cornflowerblue;
+    border: 3px;
+    border-style: dashed;
+}
+h1 {
+    color: crimson;
+}
+/* visibility:hidden; */ 
+h2 {
+    border-style: solid;
+    border-color: midnightblue;
+}
+h3 {
+    border-style: double;
+    border-color: olive;
+}
+h4 {
+    border-style: groove;
+    border-color: peru;
+}
+h5 {
+    border-style: solid;
+    border-color: saddlebrown;
+}
+h6 {
+    border-style: inset;
+    border-color: brown;
+}
