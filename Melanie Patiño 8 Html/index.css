@@ -1,4 +1,9 @@
-* {
+/* Todo elemento en HTML se representa como una caja*/
+/*CSS = Cascade stylesheet = Hoja de estilo Cascada */
+*{
+    background-color: beige;
+}
+h1 {
     font-family: sans-serif;
 }
 img {
