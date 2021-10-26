@@ -1,7 +1,7 @@
 /* Todo elemento en HTML se representa como una caja*/
 /*CSS = Cascade stylesheet = Hoja de estilo Cascada */
 *{
-    background-color: beige;
+    background-color: rgb(26, 26, 9);
 }
 h1 {
     font-family: sans-serif;
