@@ -8,10 +8,13 @@ f= total color
     background-color: beige;
     color: blueviolet;
 }
-h1 {
+#nombre 
+ {
     font-family: sans-serif;
-    background-color: darkgoldenrod;
     color:rgb(150, 0, 0) ; /* r = RED ; G= GREEEN ; B = BLUE */
+}
+.titulo {
+    background-color: darkgoldenrod;
 }
 img {
     height: 130px;/*altura*/
