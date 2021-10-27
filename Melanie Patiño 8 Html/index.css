@@ -1,8 +1,8 @@
 /* Todo elemento en HTML se representa como una caja*/
 /*CSS = Cascade stylesheet = Hoja de estilo Cascada */
-clores: sitema hexadecimal 
-0: ausencia de color 
-F: total color 
+/* colores: sistemas hexadecimal 
+0= ausencia de color
+f= total color*/
 *{
     background-color: beige;
     color: blueviolet;
