@@ -8,8 +8,7 @@ f= total color
     background-color: beige;
     color: blueviolet;
 }
-#nombre 
- {
+#nombre {
     font-family: sans-serif;
     color:rgb(150, 0, 0) ; /* r = RED ; G= GREEEN ; B = BLUE */
 }
