@@ -11,8 +11,7 @@ f= total color
 h1 {
     font-family: sans-serif;
     background-color: darkgoldenrod;
-    color:rgb(150, 0, 0) ;
-    /* r = RED ; G= GREEEN ; B = BLUE */
+    color:rgb(150, 0, 0) ; /* r = RED ; G= GREEEN ; B = BLUE */
 }
 img {
     height: 130px;/*altura*/
