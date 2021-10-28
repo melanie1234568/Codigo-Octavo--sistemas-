@@ -1,21 +1,21 @@
-/* Todo elemento en HTML se representa como una caja*/
-/*CSS = Cascade stylesheet = Hoja de estilo Cascada */
-/* colores: sistemas hexadecimal 
-0= ausencia de color
+/*Todo elemento en HTML se representa como una caja*/
+/* CSS = Cascade StyleSheet = Hoja de Estilo en Cascada */
+/* Colores: Sistema hexadecimal
+0= Ausencia de color
 f= total color
 (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)*/
-*{
-    background-color: beige;
-    color: blueviolet;
-}
-#nombre {
+* {
+    background-color:#F78812;
+    color: brown;
+    }
+    #nombre {
     font-family: sans-serif;
-    color:rgb(150, 0, 0) ; /* r = RED ; G= GREEEN ; B = BLUE */
-}
-.titulo {
-    background-color: darkgoldenrod;
-}
-img {
+    color: #fec260; /* R - red; G - Green; B - Blue */
+    }
+    .titulo {
+    background-color: salmon;
+    }
+    img {
     height: 130px;/*altura*/
     width: 200px;/*grosor/anchura*/
-}   
+    }
