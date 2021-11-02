@@ -11,10 +11,10 @@ f= total color
     }
     #nombre {
     font-family: sans-serif;
-    color: #ffecb3; /* R - red; G - Green; B - Blue */
+    color: rgb(red, green, blue); /* R - red; G - Green; B - Blue */
     }
     .titulo {
-    background-color: salmon;
+    background-color: #ffecb3;
     width: 40%;
     display: inline-block;
     }
@@ -24,8 +24,6 @@ f= total color
     }/* Typingclub.com*/
     .Tatiana-Rodríguez {
         background-color: aqua;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        color: royalblue;
     }
     .Tatiana-Rodríguez:hover {
         background-color: skyblue;
@@ -36,7 +34,12 @@ f= total color
         font-weight: bold;
         color: #fec260;
     }
+    .Melanie-patiño:hover {
+        background-color: #3b185f;
+    }
     h1:hover {
         background-color: red;
     }
-    div {}
+    div {
+        display: flexbox;
+    }
