@@ -39,3 +39,6 @@ f= total color
     h1:hover {
         background-color: red;
     }
+    div {
+        display: inline;
+    }
