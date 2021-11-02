@@ -27,6 +27,11 @@ f= total color
         font-weight: bold;
         color: #fec260;
     }
-    .Melanie-patiño :hover {
+    .Melanie-patiño {
+        background-color: brown;
+        font-weight: bold;
+        color: #fec260
+    }
+    h1 :hover {
         background-color: red;
     }
