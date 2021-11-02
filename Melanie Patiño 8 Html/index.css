@@ -19,10 +19,10 @@ f= total color
     height: 130px;/*altura*/
     width: 200px;/*grosor/anchura*/
     }/* Typingclub.com*/
-    .Melanie-patiño {
-       background-color: #9C19E0 ;
-    }
+ 
     .Tatiana-Rodríguez {
-        color:#fec260 ;
+        background-color: aqua;
     }
-    
+    .Melanie-patiño {
+        background-color: brown;
+    }
