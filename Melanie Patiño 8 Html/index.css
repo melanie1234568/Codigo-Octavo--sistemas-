@@ -17,6 +17,7 @@ f= total color
     background-color: #ffecb3;
     width: 33.1%;
     display: inline-block;
+    margin: 0px;
     border: 0px;
     padding: 0px;
     }
@@ -35,6 +36,7 @@ f= total color
         background-color: brown;
         font-weight: bold;
         color: #fec260;
+        width: 49%;
     }
     .Melanie-patiño:hover {
         background-color: #3b185f;
