@@ -16,6 +16,7 @@ f= total color
     .titulo {
     background-color: salmon;
     width: 40%;
+    display: inline;
     }
     img {
     height: 130px;/*altura*/
