@@ -7,6 +7,7 @@ f= total color
 * {
     background-color:#fec260;
     color: #38185f;
+    display: block;
     }
     #nombre {
     font-family: sans-serif;
@@ -14,6 +15,7 @@ f= total color
     }
     .titulo {
     background-color: salmon;
+    width: 40%;
     }
     img {
     height: 130px;/*altura*/
