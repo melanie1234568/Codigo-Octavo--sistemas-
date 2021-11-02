@@ -21,17 +21,18 @@ f= total color
     }/* Typingclub.com*/
     .Tatiana-Rodríguez {
         background-color: aqua;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: royalblue;
+    }
+    .Tatiana-Rodríguez:hover {
+        background-color: skyblue;
+        color: springgreen;
     }
     .Melanie-patiño {
         background-color: brown;
         font-weight: bold;
         color: #fec260;
     }
-    .Melanie-patiño {
-        background-color: brown;
-        font-weight: bold;
-        color: #fec260
-    }
-    h1 :hover {
+    h1:hover {
         background-color: red;
     }
