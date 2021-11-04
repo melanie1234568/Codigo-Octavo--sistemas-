@@ -33,17 +33,28 @@ f= total color
         color: springgreen;
     }
     .Melanie-patiño {
+        display: inline-block;
         background-color: brown;
         font-weight: bold;
         color: #fec260;
-        width: 49%;
     }
     .Melanie-patiño:hover {
         background-color: #3b185f;
+        color: #fec260;
     }
     h1:hover {
         background-color: red;
     }
     div {
         display: flexbox;
+    }
+    .texto {
+        width: 90%;
+        display: flexbox;
+    }
+    .izquierda {
+        width: 48%;
+    }
+    .derecha {
+        width: 48%;
     }
