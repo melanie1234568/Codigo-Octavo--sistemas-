@@ -33,7 +33,6 @@ f= total color
         color: springgreen;
     }
     .Melanie-patiño {
-        display: inline-block;
         background-color: brown;
         font-weight: bold;
         color: #fec260;
@@ -54,7 +53,9 @@ f= total color
     }
     .izquierda {
         width: 48%;
+        display: inline-block;
     }
     .derecha {
         width: 48%;
+        display: inline-block;
     }
