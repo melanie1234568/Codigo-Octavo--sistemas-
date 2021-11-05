@@ -1,61 +1,71 @@
-/*Todo elemento en HTML se representa como una caja*/
-/* CSS = Cascade StyleSheet = Hoja de Estilo en Cascada */
-/* Colores: Sistema hexadecimal
-0= Ausencia de color
-f= total color
+/* CSS= cascade StyleSheet=hoja de estilo en cascada*/
+/*colores: sistema hexadecimal 
+0= Ausencia de colgroup
+f= total color 
 (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)*/
 * {
-    background-color:#fec260;
-    color: #38185f;
-    display: block;
-    }
-    #nombre {
+    background-color: #88E0EF ;
+    color: rgb(150,30,0)
+    display: inline-block;
+}
+#nombre {
     font-family: sans-serif;
-    color: rgb(red, green, blue); /* R - red; G - Green; B - Blue */
-    }
-    .titulo {
-    background-color: #ffecb3;
+    color: rgb(150,30,0)
+}
+.titulo {
+    background-color: #6D9886;
     width: 33.1%;
     display: inline-block;
-    margin: 0px;
+   /* margin: 0px;*/
     border: 0px;
-    padding: 0px;
-    }
-    img {
-    height: 130px;/*altura*/
-    width: 200px;/*grosor/anchura*/
-    }/* Typingclub.com*/
-    .Tatiana-Rodríguez {
-        background-color: aqua;
-    }
-    .Tatiana-Rodríguez:hover {
-        background-color: skyblue;
-        color: springgreen;
-    }
-    .Melanie-patiño {
-        background-color: brown;
-        font-weight: bold;
-        color: #fec260;
-    }
-    .Melanie-patiño:hover {
-        background-color: #3b185f;
-        color: #fec260;
-    }
-    h1:hover {
-        background-color: red;
-    }
-    div {
-        display: flexbox;
-    }
-    .texto {
-        width: 90%;
-        display: flexbox;
-    }
-    .izquierda {
-        width: 48%;
-        display: inline-block;
-    }
-    .derecha {
-        width: 48%;
-        display: inline-block;
-    }
+    /* padding: 0px; */
+    border-radius: 10px; 
+    padding-left: 1em;
+    margin: 20px;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
+.Tatiana.Rodriguez {
+    display: inline-block;
+    background-color: darkslategrey;
+    color: seashell;
+    border-radius: 9px;
+    padding-left: 0.5em;
+    margin: 0.5em;
+}
+.Tatiana.Rodriguez:hover {
+    background-color: #3B185F;
+    color: #FEC260;
+}
+.Melanie-Patiño {
+    
+    background-color:teal;
+    color: seashell;
+    font-weight: bold;
+    border-radius: 9px;
+    padding-left: 0.5em;
+    margin: 0.5em;
+
+}
+.Melanie-Patiño:hover {
+    background-color: #3B185F;
+    color: #FEC260;
+}
+h1:hover {
+    background-color: red;
+}
+.texto {
+    width: 90%;
+    display: flexbox;
+    margin: 0.5em;
+}
+.izquierda {
+    width: 48%;
+    display: inline-block;
+}
+.derecha {
+    width: 48%;
+    display: inline-block;
+}
